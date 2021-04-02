@@ -1,0 +1,13 @@
+﻿  cryptor.cpp
+C:\Users\Chipnertkj\Documents\Libraries\simple crypt\b64.h(14,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Chipnertkj\Documents\Libraries\simple crypt\b64.h(36,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Chipnertkj\Documents\Libraries\simple crypt\vigenere.h(13,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Chipnertkj\Documents\Libraries\simple crypt\vigenere.h(40,51): warning C4101: 'j': unreferenced local variable
+C:\Users\Chipnertkj\Documents\Projects\cryptor\cryptor.cpp(102,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Chipnertkj\Documents\Projects\cryptor\cryptor.cpp(33,7): warning C4102: 'start': unreferenced label
+  Generating code
+  1 of 308 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  cryptor.vcxproj -> C:\Users\Chipnertkj\Documents\Projects\cryptor\Release\cryptor.exe

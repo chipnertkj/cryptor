@@ -1,0 +1,2 @@
+C:\Users\Chipnertkj\Documents\Projects\cryptor\Debug\cryptor.exe
+C:\Users\Chipnertkj\Documents\Projects\cryptor\Debug\cryptor.pdb
